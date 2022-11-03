@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="AMC UHD" tvg-chno="01" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/640px-AMC_logo_2016.svg.png" group-title="CINE",AMC UHD
+http://panel.tured.live:80/play/bXZvI6bwXPSWosYeyyBzj5o_iNljh1pQL2AMhscO7UY/ts
+
+#EXTINF:-1 tvg-name="A&E UHD" tvg-chno="02" tvg-logo="http://panel.tured.live:80/images/qw9Sd5JnDX2uSQDrGmMcutUeF40qlXM9NRrXFUgdVnljpqB6PQ3Hp-idKGsVkc1251ySJ6EgljwYnMmbt6yHog.png" group-title="CINE",A&E UHD
+http://panel.tured.live:80/play/bXZvI6bwXPSWosYeyyBzj_zAFOSEttYO4QkJhlE0qEw/ts
+
+#EXTINF:-1 tvg-name="CINEMAX" tvg-chno="02" tvg-logo="http://panel.tured.live:80/images/qw9Sd5JnDX2uSQDrGmMcuk5nD9Sak5qwWkBNtKUFVzvvy2JtaGHgJB0_4UidhQ9L.png" group-title="CINE",CINEMAX
+http://panel.tured.live:80/play/bXZvI6bwXPSWosYeyyBzj6Hxrl_o4ATbEmr0pdvlvPE/ts
