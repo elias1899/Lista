@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="AMC UHD" tvg-chno="01" tvg-logo="https://phab.wmfusercontent.org/file/data/xjs6czpou4v5q5p6hw3r/PHID-FILE-hmdgzf56osyfm4wppbfe/amc" group-title="CINE",AMC UHD
+#EXTINF:-1 tvg-name="AMC" tvg-chno="01" tvg-logo="https://phab.wmfusercontent.org/file/data/mvjtd3ote2vppsida54v/PHID-FILE-mf5o6azglf6pyxwle7y2/AMC.png" group-title="CINE",AMC
 http://panel.tured.live:80/tvdigital.08/tvd.192315/94113.ts
 
-#EXTINF:-1 tvg-name="A&E UHD" tvg-chno="02" tvg-logo="https://phab.wmfusercontent.org/file/data/3ldiqz2seyfkxbhm5x5r/PHID-FILE-qj7eyqkdeh5eciahjvvj/a_e" group-title="CINE",A&E UHD
+#EXTINF:-1 tvg-name="A&E" tvg-chno="02" tvg-logo="https://phab.wmfusercontent.org/file/data/3ldiqz2seyfkxbhm5x5r/PHID-FILE-qj7eyqkdeh5eciahjvvj/a_e" group-title="CINE",A&E
 http://panel.tured.live:80/tvdigital.08/tvd.192315/94112.ts
 
 #EXTINF:-1 tvg-name="CINEMAX" tvg-chno="03" tvg-logo="https://phab.wmfusercontent.org/file/data/tdtj26ggvg24aa6rairn/PHID-FILE-3pk26vc77gipz2iennve/cinemax2" group-title="CINE",CINEMAX
