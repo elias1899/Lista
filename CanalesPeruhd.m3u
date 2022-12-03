@@ -6,5 +6,5 @@ http://panel.tured.live:80/tvdigital.08/tvd.192315/94113.ts
 #EXTINF:-1 tvg-name="A&E UHD" tvg-chno="02" tvg-logo="http://panel.tured.live:80/images/qw9Sd5JnDX2uSQDrGmMcutUeF40qlXM9NRrXFUgdVnljpqB6PQ3Hp-idKGsVkc1251ySJ6EgljwYnMmbt6yHog.png" group-title="CINE",A&E UHD
 http://panel.tured.live:80/tvdigital.08/tvd.192315/94112.ts
 
-#EXTINF:-1 tvg-name="CINEMAX" tvg-chno="03" tvg-logo="https://drive.google.com/file/d/1cgDNhZmtx23dGnsEFgNLnRClLBi4-tx3/view?usp=share_link" group-title="CINE",CINEMAX
+#EXTINF:-1 tvg-name="CINEMAX" tvg-chno="03" tvg-logo="https://phab.wmfusercontent.org/file/data/ci36hiq34bw3mgncju5c/PHID-FILE-qleeppflbmwzkirymmr6/cinemax" group-title="CINE",CINEMAX
 http://panel.tured.live:80/tvdigital.08/tvd.192315/94118.ts
