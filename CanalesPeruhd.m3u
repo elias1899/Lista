@@ -6,7 +6,7 @@ http://190.187.247.206:8000/play/a01j/index.m3u8
 http://190.187.247.206:8000/play/a03f/index.m3u8
 #EXTINF:-1,Canal Estrellas
 http://190.187.247.206:8000/play/a01c/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTV.pe" tvg-country="PE",America TV
+#EXTINF:-1 tvg-id="AmericaHD.pe" tvg-country="PE",America HD
 http://190.187.247.206:8000/play/a03j/index.m3u8
 #EXTINF:-1,PANAMERICANA HD
 http://190.187.247.206:8000/play/a03l/index.m3u8
@@ -16,7 +16,7 @@ http://190.187.247.206:8000/play/a00f/index.m3u8
 http://190.187.247.206:8000/play/a036/index.m3u8
 #EXTINF:-1,ATV Sur HD
 http://190.187.247.206:8000/play/a03n/index.m3u8
-#EXTINF:-1 tvg-id="ATV.pe" tvg-country="PE",ATV HD
+#EXTINF:-1 tvg-id="ATVHD.pe" tvg-country="PE",ATV HD
 http://190.187.247.206:8000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-chno="01" tvg-logo="https://phab.wmfusercontent.org/file/data/mvjtd3ote2vppsida54v/PHID-FILE-mf5o6azglf6pyxwle7y2/AMC.png" group-title="CINE",AMC
