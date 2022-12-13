@@ -13,29 +13,26 @@ http://panel.tured.live:80/tvdigital.08/tvd.192315/94118.ts
 
 
 
-
-#EXTINF:-1,BabyFirst
-http://190.187.247.206:8000/play/a00l/index.m3u8
+#EXTINF:-1,WILLAX
+http://190.187.247.206:8000/play/a01j/index.m3u8
 #EXTINF:-1, Latina HD
 http://190.187.247.206:8000/play/a03f/index.m3u8
+#EXTINF:-1,Canal Estrellas
+http://190.187.247.206:8000/play/a01c/index.m3u8
 #EXTINF:-1,AmericaTV HD
 http://190.187.247.206:8000/play/a03j/index.m3u8
 #EXTINF:-1,PANAMERICANA HD
 http://190.187.247.206:8000/play/a03l/index.m3u8
-#EXTINF:-1,WILLAX
-http://190.187.247.206:8000/play/a01j/index.m3u8
-#EXTINF:-1,TVPeru HD
-http://190.187.247.206:8000/play/a036/index.m3u8
-#EXTINF:-1,ATV HD
-http://190.187.247.206:8000/play/a03c/index.m3u8
-#EXTINF:-1,ATV Sur HD
-http://190.187.247.206:8000/play/a03n/index.m3u8
 #EXTINF:-1,CNN Chile
 http://190.187.247.206:8000/play/a00f/index.m3u8
+#EXTINF:-1,TVPeru HD
+http://190.187.247.206:8000/play/a036/index.m3u8
+#EXTINF:-1,ATV Sur HD
+http://190.187.247.206:8000/play/a03n/index.m3u8
+#EXTINF:-1,ATV HD
+http://190.187.247.206:8000/play/a03c/index.m3u8
 #EXTINF:-1,CNN Espanol
 http://190.187.247.206:8000/play/a00p/index.m3u8
-#EXTINF:-1,Canal Estrellas
-http://190.187.247.206:8000/play/a01c/index.m3u8
 #EXTINF:-1,RCN Novelas
 http://190.187.247.206:8000/play/a01g/index.m3u8
 #EXTINF:-1,Telemundo
