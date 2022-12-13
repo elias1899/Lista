@@ -2,7 +2,7 @@
 
 #EXTINF:-1,WILLAX
 http://190.187.247.206:8000/play/a01j/index.m3u8
-#EXTINF:-1, Latina HD
+#EXTINF:-1 tvg-id="Latina.pe",Latina HD
 http://190.187.247.206:8000/play/a03f/index.m3u8
 #EXTINF:-1,Canal Estrellas
 http://190.187.247.206:8000/play/a01c/index.m3u8
@@ -28,8 +28,10 @@ http://panel.tured.live:80/tvdigital.08/tvd.192315/94112.ts
 #EXTINF:-1 tvg-name="CINEMAX" tvg-chno="03" tvg-id="cinemax" tvg-logo="https://phab.wmfusercontent.org/file/data/tdtj26ggvg24aa6rairn/PHID-FILE-3pk26vc77gipz2iennve/cinemax2" group-title="CINE",CINEMAX
 http://panel.tured.live:80/tvdigital.08/tvd.192315/94118.ts
 
-#EXTINF:-1,Cinecanal
-http://190.187.247.206:8000/play/a00a/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://190.187.247.206:8000/play/a09d/index.m3u8
+#EXTINF:-1,HBO HD
+http://190.187.247.206:8000/play/a09o/index.m3u8
 #EXTINF:-1,FX
 http://190.187.247.206:8000/play/a01x/index.m3u8
 #EXTINF:-1,Sony
@@ -38,11 +40,9 @@ http://190.187.247.206:8000/play/a01u/index.m3u8
 http://190.187.247.206:8000/play/a01w/index.m3u8
 #EXTINF:-1,Paramount HD
 http://190.187.247.206:8000/play/a09i/index.m3u8
-#EXTINF:-1,Studio Universal
-http://190.187.247.206:8000/play/a00w/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://190.187.247.206:8000/play/a09j/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
+#EXTINF:-1,Universal HD
 http://190.187.247.206:8000/play/a08a/index.m3u8
 #EXTINF:-1,TNT
 http://190.187.247.206:8000/play/a00j/index.m3u8
@@ -54,8 +54,7 @@ http://190.187.247.206:8000/play/a014/index.m3u8
 http://190.187.247.206:8000/play/a00h/index.m3u8
 #EXTINF:-1,STAR CHANNEL
 http://190.187.247.206:8000/play/a00g/index.m3u8
-#EXTINF:-1,Universal
-http://190.187.247.206:8000/play/a00b/index.m3u8
+
 #EXTINF:-1,HBO
 http://190.187.247.206:8000/play/a01s/index.m3u8
 #EXTINF:-1,HBO 2
@@ -64,14 +63,11 @@ http://190.187.247.206:8000/play/a00r/index.m3u8
 http://190.187.247.206:8000/play/a00u/index.m3u8
 #EXTINF:-1,HBO Plus
 http://190.187.247.206:8000/play/a00s/index.m3u8
-#EXTINF:-1,Cinecanal HD
-http://190.187.247.206:8000/play/a09d/index.m3u8
 #EXTINF:-1,FX HD
 http://190.187.247.206:8000/play/a08h/index.m3u8
 #EXTINF:-1,HBO 2 HD
 http://190.187.247.206:8000/play/a09m/index.m3u8
-#EXTINF:-1,HBO HD
-http://190.187.247.206:8000/play/a09o/index.m3u8
+
 #EXTINF:-1,SyFy
 http://190.187.247.206:8000/play/a00n/index.m3u8
 
