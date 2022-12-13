@@ -16,7 +16,7 @@ http://190.187.247.206:8000/play/a00f/index.m3u8
 http://190.187.247.206:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe",ATV Sur
 http://190.187.247.206:8000/play/a03n/index.m3u8
-#EXTINF:-1 tvg-id="ATVTv.pe" tvg-name="ATV Tv PE" tvg-country="PERU",ATV Tv
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV PE" tvg-country="PERU",ATV
 http://190.187.247.206:8000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-chno="01" tvg-logo="https://phab.wmfusercontent.org/file/data/mvjtd3ote2vppsida54v/PHID-FILE-mf5o6azglf6pyxwle7y2/AMC.png" group-title="CINE",AMC
