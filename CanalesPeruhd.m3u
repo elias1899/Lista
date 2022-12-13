@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="Willax.pe",Willax
 http://190.187.247.206:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="latina.pe" tvg-country="PE",Latina
+#EXTINF:-1 tvg-id="latina.pe" tvg-name="Latina PE" tvg-country="PERU",Latina HD
 http://190.187.247.206:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="Canal Estrellas.ar",Canal Estrellas
 http://190.187.247.206:8000/play/a01c/index.m3u8
