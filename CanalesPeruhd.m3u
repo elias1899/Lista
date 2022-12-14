@@ -20,29 +20,16 @@ http://190.187.247.206:8000/play/a03n/index.m3u8
 http://190.187.247.206:8000/play/a03c/index.m3u8
 
 
-#EXTINF:-1 ,Directv Sports2
-https://1057-vos.dtvott.com/DASH/stream_06/Segment-3720355728371643.m4v
-https://1057-vos.dtvott.com/DASH/stream_08/Segment-3720360613418310.m4a
-
-#EXTINF:-1 ,America HD
-https://americatv-ecdn3.cdn.mdstrm.com/token=nva=1670988311~dirs=2~hash=0ad23cbee2038c8be7fa1/live-stream-secure/6099b04d9418ac082441dd74/publish/media.ts
-
-
-#EXTINF:-1 ,Directv Sports
-https://live.telelatinohd.com:8080/MjAxLjIxOC4xNTcuNTI=/20_.m3u8?token=eR8H3tvILn1dw8Xi8TyK8w&expires=1670985537
-
-
-
-#EXTINF:-1 tvg-id="AMC" tvg-chno="01" tvg-logo="https://phab.wmfusercontent.org/file/data/mvjtd3ote2vppsida54v/PHID-FILE-mf5o6azglf6pyxwle7y2/AMC.png" group-title="CINE",AMC
+#EXTINF:-1 tvg-id="AMC.pe" tvg-chno="01" tvg-name="AMC PE" tvg-logo="https://phab.wmfusercontent.org/file/data/mvjtd3ote2vppsida54v/PHID-FILE-mf5o6azglf6pyxwle7y2/AMC.png" group-title="CINE",AMC
 http://panel.tured.live:80/tvdigital.08/tvd.192315/94113.ts
 
-#EXTINF:-1 tvg-id="A&amp;E" tvg-chno="02" tvg-id="A&EMundo" tvg-logo="https://phab.wmfusercontent.org/file/data/3ldiqz2seyfkxbhm5x5r/PHID-FILE-qj7eyqkdeh5eciahjvvj/a_e" group-title="CINE",A&E
+#EXTINF:-1 tvg-id="A&amp;E.pe" tvg-chno="02" tvg-name="A&amp;E PE" tvg-logo="https://phab.wmfusercontent.org/file/data/3ldiqz2seyfkxbhm5x5r/PHID-FILE-qj7eyqkdeh5eciahjvvj/a_e" group-title="CINE",A&E
 http://panel.tured.live:80/tvdigital.08/tvd.192315/94112.ts
 
-#EXTINF:-1 tvg-name="CINEMAX" tvg-chno="03" tvg-id="cinemax" tvg-logo="https://phab.wmfusercontent.org/file/data/tdtj26ggvg24aa6rairn/PHID-FILE-3pk26vc77gipz2iennve/cinemax2" group-title="CINE",CINEMAX
+#EXTINF:-1 tvg-id="cinemax.pe" tvg-name="Cinemax PE" tvg-chno="03" tvg-logo="https://phab.wmfusercontent.org/file/data/tdtj26ggvg24aa6rairn/PHID-FILE-3pk26vc77gipz2iennve/cinemax2" group-title="CINE",Cinemax
 http://panel.tured.live:80/tvdigital.08/tvd.192315/94118.ts
 
-#EXTINF:-1 tvg-id="Cinecanal.pe" tvg-language="English/Spanish" tvg-name="Cinecanal PE" tvg-country="PERU",Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal.pe" tvg-name="Cinecanal PE" tvg-language="2" tvg-country="ES",Cinecanal
 http://190.187.247.206:8000/play/a09d/index.m3u8
 #EXTINF:-1,HBO HD
 http://190.187.247.206:8000/play/a09o/index.m3u8
