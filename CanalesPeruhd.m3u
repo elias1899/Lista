@@ -28,7 +28,7 @@ http://panel.tured.live:80/tvdigital.08/tvd.192315/94112.ts
 #EXTINF:-1 tvg-id="cinemax.pe" tvg-name="Cinemax PE" tvg-country="PE" tvg-logo="https://phab.wmfusercontent.org/file/data/tdtj26ggvg24aa6rairn/PHID-FILE-3pk26vc77gipz2iennve/cinemax2" group-title="CINE",Cinemax
 http://panel.tured.live:80/tvdigital.08/tvd.192315/94118.ts
 
-#EXTINF:-1 tvg-id="Cinecanal.cl" tvg-name="Cinecanal CL" audio-track="eng,spa" tvg-country="CL",Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal.pe" audio-track="eng,spa" tvg-country="PE",Cinecanal
 http://190.187.247.206:8000/play/a09d/index.m3u8
 
 #EXTINF:-1,HBO HD
