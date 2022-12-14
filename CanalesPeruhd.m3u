@@ -24,6 +24,9 @@ http://190.187.247.206:8000/play/a03c/index.m3u8
 https://1057-vos.dtvott.com/DASH/stream_06/Segment-3720355728371643.m4v
 https://1057-vos.dtvott.com/DASH/stream_08/Segment-3720360613418310.m4a
 
+#EXTINF:-1 ,America HD
+https://americatv-ecdn3.cdn.mdstrm.com/token=nva=1670988311~dirs=2~hash=0ad23cbee2038c8be7fa1/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500_20221214T002607_6561778.ts
+
 
 #EXTINF:-1 ,Directv Sports
 https://live.telelatinohd.com:8080/MjAxLjIxOC4xNTcuNTI=/20_.m3u8?token=eR8H3tvILn1dw8Xi8TyK8w&expires=1670985537
