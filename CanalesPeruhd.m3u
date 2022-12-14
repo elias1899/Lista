@@ -22,13 +22,13 @@ http://190.187.247.206:8000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="AMC.pe" tvg-name="AMC PE" tvg-country="PE" tvg-logo="https://phab.wmfusercontent.org/file/data/mvjtd3ote2vppsida54v/PHID-FILE-mf5o6azglf6pyxwle7y2/AMC.png" group-title="CINE",AMC
 http://panel.tured.live:80/tvdigital.08/tvd.192315/94113.ts
 
-#EXTINF:-1 tvg-id="A&amp;E.pe" tvg-name="A&amp;E PE" tvg-country="PE" tvg-logo="https://phab.wmfusercontent.org/file/data/3ldiqz2seyfkxbhm5x5r/PHID-FILE-qj7eyqkdeh5eciahjvvj/a_e" group-title="CINE",A&E
+#EXTINF:-1 tvg-id="A&EMundo.cl" tvg-name="A&E Mundo CL" tvg-country="CL" tvg-logo="https://phab.wmfusercontent.org/file/data/3ldiqz2seyfkxbhm5x5r/PHID-FILE-qj7eyqkdeh5eciahjvvj/a_e" group-title="CINE",A&E Mundo
 http://panel.tured.live:80/tvdigital.08/tvd.192315/94112.ts
 
 #EXTINF:-1 tvg-id="cinemax.pe" tvg-name="Cinemax PE" tvg-country="PE" tvg-logo="https://phab.wmfusercontent.org/file/data/tdtj26ggvg24aa6rairn/PHID-FILE-3pk26vc77gipz2iennve/cinemax2" group-title="CINE",Cinemax
 http://panel.tured.live:80/tvdigital.08/tvd.192315/94118.ts
 
-#EXTINF:-1 tvg-id="Cinecanal.pe" tvg-name="Cinecanal PE" tvg-language="2" tvg-country="PE",Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal.cl" tvg-name="Cinecanal cl" tvg-language="Spanish" tvg-country="CL",Cinecanal
 http://190.187.247.206:8000/play/a09d/index.m3u8
 
 #EXTINF:-1,HBO HD
