@@ -23,6 +23,7 @@ http://castlempire.site:8080/luisticona2/EafwfbgzYneR/247396.ts
 
 
 
+
 #EXTINF:-1 tvg-id="AMC.pe" tvg-name="AMC PE" tvg-country="PE" tvg-logo="https://phab.wmfusercontent.org/file/data/mvjtd3ote2vppsida54v/PHID-FILE-mf5o6azglf6pyxwle7y2/AMC.png",AMC
 http://panel.tured.live:80/tvdigital.08/tvd.192315/94113.ts
 
@@ -35,6 +36,8 @@ http://panel.tured.live:80/tvdigital.08/tvd.192315/94118.ts
 #EXTINF:-1 tvg-id="Cinecanal.pe" tvg-country="PE",Cinecanal
 #EXTVLCOPT:audio-track=1
 http://190.187.247.206:8000/play/a09d/index.m3u8
+
+
 
 
 
