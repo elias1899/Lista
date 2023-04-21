@@ -21,6 +21,13 @@ http://190.187.247.206:8000/play/a03c/index.m3u8
 #EXTINF:-1,Liga1Max
 http://castlempire.site:8080/luisticona2/EafwfbgzYneR/247396
 
+#EXTINF:-1,Latina
+http://castlempire.site:8080/luisticona2/EafwfbgzYneR/241192
+#EXTINF:-1,Movistar Deportes
+http://castlempire.site:8080/luisticona2/EafwfbgzYneR/170127
+#EXTINF:-1,America Tv
+http://castlempire.site:8080/luisticona2/EafwfbgzYneR/170106
+
 #EXTINF:-1 tvg-id="AMC.pe" tvg-name="AMC PE" tvg-country="PE" tvg-logo="https://phab.wmfusercontent.org/file/data/mvjtd3ote2vppsida54v/PHID-FILE-mf5o6azglf6pyxwle7y2/AMC.png",AMC
 
 #EXTINF:-1 tvg-id="A&amp;E.mx" tvg-name="A&E MX" tvg-country="MX" tvg-logo="https://phab.wmfusercontent.org/file/data/3ldiqz2seyfkxbhm5x5r/PHID-FILE-qj7eyqkdeh5eciahjvvj/a_e",A&E
