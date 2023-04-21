@@ -3,21 +3,27 @@
 #EXTINF:-1 tvg-id="Willax.pe",Willax
 http://190.187.247.206:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="latina.pe" tvg-name="Latina PE" tvg-country="PERU",Latina
-http://190.187.247.206:8000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="Canal Estrellas.ar",Canal Estrellas
-http://190.187.247.206:8000/play/a01c/index.m3u8
+http://castlempire.site:8080/luisticona2/EafwfbgzYneR/241192
+#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-country="PERU",Movistar Deportes
+http://castlempire.site:8080/luisticona2/EafwfbgzYneR/170127
 #EXTINF:-1 tvg-id="AmericaTv.pe" tvg-name="America Tv PE" tvg-country="PERU",America Tv
 http://190.187.247.206:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTv.pe" tvg-name="Panamericana Tv PE" tvg-country="PERU",Panamericana Tv
 http://190.187.247.206:8000/play/a03l/index.m3u8
-#EXTINF:-1 tvg-id="CNNChile.cl",CNN Chile
-http://190.187.247.206:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="GolPeru.pe",Gol Peru
+http://castlempire.site:8080/luisticona2/EafwfbgzYneR/170121
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE",TVPeru
 http://190.187.247.206:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe",ATV Sur
 http://190.187.247.206:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV PE" tvg-country="PERU",ATV
 http://190.187.247.206:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-id="Liga1Max.pe" tvg-name="Liga1 Max PE" tvg-country="PERU",Liga1 Max
+http://190.187.247.206:8000/play/a03c/index.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="AMC.pe" tvg-name="AMC PE" tvg-country="PE" tvg-logo="https://phab.wmfusercontent.org/file/data/mvjtd3ote2vppsida54v/PHID-FILE-mf5o6azglf6pyxwle7y2/AMC.png" group-title="CINE",AMC
 http://panel.tured.live:80/tvdigital.08/tvd.192315/94113.ts
@@ -31,6 +37,8 @@ http://panel.tured.live:80/tvdigital.08/tvd.192315/94118.ts
 #EXTINF:-1 tvg-id="Cinecanal.pe" tvg-country="PE",Cinecanal
 #EXTVLCOPT:audio-track=1
 http://190.187.247.206:8000/play/a09d/index.m3u8
+
+
 
 #EXTINF:-1,HBO HD
 http://190.187.247.206:8000/play/a09o/index.m3u8
