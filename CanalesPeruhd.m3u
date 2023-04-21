@@ -18,7 +18,7 @@ http://190.187.247.206:8000/play/a036/index.m3u8
 http://190.187.247.206:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV PE" tvg-country="PERU",ATV
 http://190.187.247.206:8000/play/a03c/index.m3u8
-#EXTINF:-1 tvg-id="Liga1.pe",Liga1
+#EXTINF:-1,Liga1Max
 http://castlempire.site:8080/luisticona2/EafwfbgzYneR/247396
 
 
