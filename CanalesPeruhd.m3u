@@ -5,7 +5,7 @@ http://190.187.247.206:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="latina.pe" tvg-name="Latina PE" tvg-country="PERU",Latina
 http://castlempire.site:8080/luisticona2/EafwfbgzYneR/241192
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-country="PERU",Movistar Deportes
-http://castlempire.site:8080/luisticona2/EafwfbgzYneR/170127
+http://castlempire.site:8080/luisticona2/EafwfbgzYneR/178245
 #EXTINF:-1 tvg-id="AmericaTv.pe" tvg-name="America Tv PE" tvg-country="PERU",America Tv
 http://castlempire.site:8080/luisticona2/EafwfbgzYneR/170106
 #EXTINF:-1 tvg-id="PanamericanaTv.pe" tvg-name="Panamericana Tv PE" tvg-country="PERU",Panamericana Tv
@@ -27,6 +27,9 @@ http://castlempire.site:8080/luisticona2/EafwfbgzYneR/241192
 http://castlempire.site:8080/luisticona2/EafwfbgzYneR/170127
 #EXTINF:-1,America Tv
 http://castlempire.site:8080/luisticona2/EafwfbgzYneR/170106
+
+#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes4K" tvg-country="PERU",Movistar Deportes4K
+http://castlempire.site:8080/luisticona2/EafwfbgzYneR/241190
 
 #EXTINF:-1 tvg-id="AMC.pe" tvg-name="AMC PE" tvg-country="PE" tvg-logo="https://phab.wmfusercontent.org/file/data/mvjtd3ote2vppsida54v/PHID-FILE-mf5o6azglf6pyxwle7y2/AMC.png",AMC
 
