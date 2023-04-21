@@ -41,10 +41,9 @@ http://190.187.247.206:8000/play/a09d/index.m3u8
 
 
 
-#EXTINF:-1,HBO HD
-http://190.187.247.206:8000/play/a09o/index.m3u8
+
 #EXTINF:-1,FX
-http://190.187.247.206:8000/play/a01x/index.m3u8
+http://gg
 #EXTINF:-1,Sony
 http://190.187.247.206:8000/play/a01u/index.m3u8
 #EXTINF:-1,Space
