@@ -23,13 +23,13 @@ http://castlempire.site:8080/luisticona2/EafwfbgzYneR/247396.ts
 
 
 
-#EXTINF:-1 tvg-id="AMC.pe" tvg-name="AMC PE" tvg-country="PE" tvg-logo="https://phab.wmfusercontent.org/file/data/mvjtd3ote2vppsida54v/PHID-FILE-mf5o6azglf6pyxwle7y2/AMC.png" ,AMC
+#EXTINF:-1 tvg-id="AMC.pe" tvg-name="AMC PE" tvg-country="PE" tvg-logo="https://phab.wmfusercontent.org/file/data/mvjtd3ote2vppsida54v/PHID-FILE-mf5o6azglf6pyxwle7y2/AMC.png",AMC
 http://panel.tured.live:80/tvdigital.08/tvd.192315/94113.ts
 
-#EXTINF:-1 tvg-id="A&amp;E.mx" tvg-name="A&E MX" tvg-country="MX" tvg-logo="https://phab.wmfusercontent.org/file/data/3ldiqz2seyfkxbhm5x5r/PHID-FILE-qj7eyqkdeh5eciahjvvj/a_e" ,A&E
+#EXTINF:-1 tvg-id="A&amp;E.mx" tvg-name="A&E MX" tvg-country="MX" tvg-logo="https://phab.wmfusercontent.org/file/data/3ldiqz2seyfkxbhm5x5r/PHID-FILE-qj7eyqkdeh5eciahjvvj/a_e",A&E
 http://castlempire.site:8080/luisticona2/EafwfbgzYneR/56385
 
-#EXTINF:-1 tvg-id="cinemax.pe" tvg-name="Cinemax PE" tvg-country="PE" tvg-logo="https://phab.wmfusercontent.org/file/data/tdtj26ggvg24aa6rairn/PHID-FILE-3pk26vc77gipz2iennve/cinemax2" ,Cinemax
+#EXTINF:-1 tvg-id="cinemax.pe" tvg-name="Cinemax PE" tvg-country="PE" tvg-logo="https://phab.wmfusercontent.org/file/data/tdtj26ggvg24aa6rairn/PHID-FILE-3pk26vc77gipz2iennve/cinemax2",Cinemax
 http://panel.tured.live:80/tvdigital.08/tvd.192315/94118.ts
 
 #EXTINF:-1 tvg-id="Cinecanal.pe" tvg-country="PE",Cinecanal
