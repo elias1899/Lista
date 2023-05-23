@@ -2,12 +2,14 @@
 
 #EXTINF:-1 tvg-id="Willax.pe",Willax
 http://190.187.247.206:8000/play/a01j/index.m3u8
+
 #EXTINF:-1 tvg-id="latina.pe" tvg-name="Latina PE" tvg-country="PERU",Latina
-http://castlempire.site:8080/luisticona2/EafwfbgzYneR/241192
+http://190.187.247.206:8000/play/a02j/index.m3u8
+
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-country="PERU",Movistar Deportes
-http://castlempire.site:8080/luisticona2/EafwfbgzYneR/178245
+http://190.187.247.206:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTv.pe" tvg-name="America Tv PE" tvg-country="PERU",America Tv
-http://castlempire.site:8080/luisticona2/EafwfbgzYneR/170106
+http://190.187.247.206:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTv.pe" tvg-name="Panamericana Tv PE" tvg-country="PERU",Panamericana Tv
 http://190.187.247.206:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="GolPeru.pe",Gol Peru
