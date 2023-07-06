@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="Willax.pe",Willax
 http://190.187.247.206:8000/play/a01j/index.m3u8
 
+#EXTINF:-1 tvg-id="frecuencialatina.pe" tvg-name="Latina FHD" tvg-logo="https://i.imgur.com/gHhpZGI.png",Latina FHD
+http://136421.one:8880/eliga2/DfhvaXzuTRMg/755144
+
 #EXTINF:-1 tvg-id="latina.pe" tvg-name="Latina PE" tvg-country="PERU",Latina
 http://190.187.247.206:8000/play/a02j/index.m3u8
 
@@ -20,7 +23,7 @@ http://190.187.247.206:8000/play/a036/index.m3u8
 http://190.187.247.206:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV PE" tvg-country="PERU",ATV
 http://190.187.247.206:8000/play/a03c/index.m3u8
-#EXTINF:-1 tvg-id="DTSPHD" tvg-name="DSports" tvg-logo="https://i.imgur.com/G478cGU.png" ,DSports
+#EXTINF:-1 tvg-id="DTSPHD.pe" tvg-name="DSports" tvg-logo="https://i.imgur.com/G478cGU.png",DSports
 http://136421.one:8880/eliga2/DfhvaXzuTRMg/737110
 
 
